@@ -1,0 +1,2 @@
+# LaughGuru
+Assignment for Internship 
