@@ -1,2 +1,2 @@
-# LaughGuru
-Assignment for Internship 
+# Responsive Form Template
+Includes both sign up and sign in
